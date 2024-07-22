@@ -1,4 +1,6 @@
 # Footwear Image Classification Project
+# download model
+https://drive.google.com/file/d/1-8gTlWI1b38Y14T0jQGnEQ2Ix3FbSdEw/view?usp=sharing
 
 ## Task
 This project aims to classify footwear images into six different categories: boots, flip-flops, loafers, sandals, sneakers, and soccer shoes.
